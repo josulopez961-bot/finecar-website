@@ -1,0 +1,31 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Source images kept locally; the website uses optimized WebP assets in /assets.
+*.jpg
+*.jpeg
+*.png
+*.webp
+!logo.webp
+!assets/finecar-hero.webp
+!assets/hero-finecar.webp
+!assets/testimonios/*.webp
+!assets/trabajos/antes-motor.webp
+!assets/trabajos/despues-motor.webp
+!assets/trabajos/pintura-automotriz.webp
+!assets/trabajos/proceso-anticorrosion.webp
+!assets/trabajos/pulido-taller-1.webp
+!assets/trabajos/pulido-taller-2.webp
+!assets/trabajos/pulido-taller-3.webp
+!assets/trabajos/pulido-taller-4.webp
+!assets/trabajos/trabajo-1.webp
+!assets/trabajos/trabajo-3.webp
+!assets/trabajos/trabajo-4.webp
+!assets/trabajos/trabajo-5.webp
+!assets/trabajos/trabajo-6.webp
+
+# Temporary exports
+*.zip
+*.log
