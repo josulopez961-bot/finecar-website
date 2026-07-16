@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://verdant-rabanadas-e35b84.netlify.app/sitemap.xml
+Sitemap: https://finecarbodyshop.netlify.app/sitemap.xml
