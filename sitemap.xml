@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Reemplazar dominio-pendiente-finecarbodyshop.com cuando se compre el dominio oficial. -->
+  <!-- Cambiar este dominio cuando se conecte el dominio oficial. -->
   <url>
-    <loc>https://dominio-pendiente-finecarbodyshop.com/</loc>
+    <loc>https://verdant-rabanadas-e35b84.netlify.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dominio-pendiente-finecarbodyshop.com/enderezada-y-pintura</loc>
+    <loc>https://verdant-rabanadas-e35b84.netlify.app/enderezada-y-pintura</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://dominio-pendiente-finecarbodyshop.com/mecanica-general</loc>
+    <loc>https://verdant-rabanadas-e35b84.netlify.app/mecanica-general</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dominio-pendiente-finecarbodyshop.com/nosotros</loc>
+    <loc>https://verdant-rabanadas-e35b84.netlify.app/nosotros</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dominio-pendiente-finecarbodyshop.com/contacto</loc>
+    <loc>https://verdant-rabanadas-e35b84.netlify.app/contacto</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dominio-pendiente-finecarbodyshop.com/blog</loc>
+    <loc>https://verdant-rabanadas-e35b84.netlify.app/blog</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

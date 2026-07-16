@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dominio-pendiente-finecarbodyshop.com/sitemap.xml
+Sitemap: https://verdant-rabanadas-e35b84.netlify.app/sitemap.xml
