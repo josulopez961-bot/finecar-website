@@ -48,6 +48,24 @@ whatsappLinks.forEach((link) => {
   link.href = whatsappUrl(messages[service] || messages.general);
 });
 
+// Eventos para Google Tag Manager / GA4: miden cuántos clientes intentan contactar.
+window.dataLayer = window.dataLayer || [];
+const track = (event, params = {}) =>
+  window.dataLayer.push({ event, page_path: window.location.pathname, ...params });
+
+document.addEventListener("click", (event) => {
+  const link = event.target.closest("a");
+  if (!link) return;
+  const href = link.getAttribute("href") || "";
+  if (link.dataset.waService) {
+    track("whatsapp_click", { service: link.dataset.waService });
+  } else if (href.startsWith("tel:")) {
+    track("phone_click", { phone: href.slice(4) });
+  } else if (href.includes("maps.app.goo.gl")) {
+    track("maps_click");
+  }
+});
+
 window.addEventListener("scroll", updateHeader, { passive: true });
 
 navToggle.addEventListener("click", () => {
@@ -78,6 +96,8 @@ if (contactForm) {
       `Vehículo: ${data.get("vehicle")}`,
       `Mensaje: ${data.get("message") || "Quiero coordinar una revisión."}`,
     ].join("\n");
+
+    track("quote_form_submit", { service: String(service || "general") });
 
     if (formNote) {
       formNote.textContent = "Abriendo WhatsApp con tu solicitud de cotización.";

@@ -840,3 +840,6 @@ main > .final-cta { margin-block: 0 clamp(56px, 8vw, 96px); }
   .before-after-strip { grid-template-columns: 1fr; }
   .page-hero .hero-actions .btn { width: 100%; }
 }
+
+.trust-strip span a { color: inherit; padding: 0; background: none; border: 0; min-height: 0; display: inline; }
+.trust-strip span a:hover { color: var(--accent); }
