@@ -1,0 +1,41 @@
+# FINECAR Bodyshop
+
+> FINECAR Bodyshop es un taller automotriz en el sector Huachi Chico, Ambato (Tungurahua, Ecuador), especializado en enderezada, reparación de choques y pintura automotriz. Como segunda línea de servicio ofrece mecánica general y mantenimiento preventivo. Las cotizaciones se hacen enviando fotos por WhatsApp.
+
+## Datos del negocio
+
+- Nombre: FINECAR Bodyshop (también "Taller Automotriz FINECAR")
+- Dirección: Cervantes y Río Cosanga, sector Huachi Chico, Ambato, Tungurahua, Ecuador
+- Coordenadas: -1.2730104, -78.6274445
+- WhatsApp: +593 99 555 6084 (https://wa.me/593995556084)
+- Teléfono adicional: +593 99 531 8519
+- Teléfono fijo: (03) 2844-271
+- Horario: lunes a viernes 8:30-18:00; sábados 8:30-14:00
+- Zona de servicio: Ambato y alrededores
+- Google Maps: https://maps.app.goo.gl/RhvTJb3wtknE4F5E9
+- Facebook: https://www.facebook.com/finecar.bodyshop/
+
+## Servicios
+
+- [Reparación de choques y enderezada de chasis](https://finecarbodyshop.netlify.app/reparacion-de-choques-ambato): enderezada de chasis y compactos cuando es viable; guardachoques, puertas, capó, compuertas, paneles y piezas de aluminio.
+- [Pintura automotriz](https://finecarbodyshop.netlify.app/pintura-automotriz-ambato): igualación de color, brillo directo, barniz, tricapa, perlados y mate. Garantía de hasta 2 años en pintura según el trabajo realizado.
+- [Rayones, pulido y protección cerámica](https://finecarbodyshop.netlify.app/pulido-y-rayones-ambato): evaluación para pulir, retocar o pintar; protección con cerámica y carnauba.
+- [Mecánica general](https://finecarbodyshop.netlify.app/mecanica-general): cambio de aceite y filtros, frenos, suspensión, ABC de motor, limpieza de inyectores, diagnóstico y mantenimiento. No se ofrece servicio de cajas automáticas.
+
+## Cómo cotizar
+
+Enviar por WhatsApp una foto general del vehículo, una foto cercana del daño y una foto lateral, con marca, modelo y año. El alcance del trabajo se explica antes de comenzar. El costo depende de las piezas afectadas, el tamaño del daño, el tipo de pintura y el color, por lo que no hay precio fijo sin ver el vehículo.
+
+## Guías
+
+- [¿Qué hacer después de un choque?](https://finecarbodyshop.netlify.app/que-hacer-despues-de-un-choque)
+- [Rayón: ¿pulir, retocar o pintar?](https://finecarbodyshop.netlify.app/rayon-pulir-retocar-o-pintar)
+- [Cómo cuidar la pintura del auto](https://finecarbodyshop.netlify.app/como-cuidar-la-pintura-del-auto)
+- [Ayuda mecánica: frenos, Check Engine y mantenimiento](https://finecarbodyshop.netlify.app/blog)
+
+## Otras páginas
+
+- [Inicio](https://finecarbodyshop.netlify.app/)
+- [Enderezada y pintura](https://finecarbodyshop.netlify.app/enderezada-y-pintura)
+- [Nosotros](https://finecarbodyshop.netlify.app/nosotros)
+- [Contacto y ubicación](https://finecarbodyshop.netlify.app/contacto)

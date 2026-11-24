@@ -9,7 +9,12 @@ Sitio web estático para FINECAR Bodyshop, taller automotriz en Ambato, Ecuador.
 - `mecanica-general.html`: página SEO para mecánica general.
 - `nosotros.html`: confianza, historia y posicionamiento local.
 - `contacto.html`: NAP, mapa, formulario y WhatsApp.
-- `blog.html`: guías SEO para dudas mecánicas comunes.
+- `blog.html`: índice de guías.
+- `reparacion-de-choques-ambato.html`, `pintura-automotriz-ambato.html`, `pulido-y-rayones-ambato.html`: páginas SEO por servicio.
+- `que-hacer-despues-de-un-choque.html`, `rayon-pulir-retocar-o-pintar.html`, `como-cuidar-la-pintura-del-auto.html`: guías.
+- `llms.txt`, `robots.txt`, `sitemap.xml`: descubrimiento para buscadores y asistentes de IA.
+- `netlify.toml`: URLs limpias (301 desde .html), encabezados y caché.
+- `serve.py`: servidor local con URLs limpias.
 - `styles.css`: estilos globales.
 - `script.js`: WhatsApp, navegación móvil y formulario.
 - `assets/`: imágenes WebP optimizadas.
@@ -23,15 +28,15 @@ Sitio web estático para FINECAR Bodyshop, taller automotriz en Ambato, Ecuador.
 ## Para revisar localmente
 
 ```bash
-python -m http.server 4177 --bind 127.0.0.1
+python serve.py
 ```
 
 Abrir:
 
 ```text
-http://127.0.0.1:4177/index.html
+http://127.0.0.1:4177/
 ```
 
 ## Nota para publicación
 
-Reemplazar `https://dominio-pendiente-finecarbodyshop.com` en `sitemap.xml`, canonical tags y JSON-LD cuando exista dominio final.
+Al comprar el dominio propio, reemplazar `https://finecarbodyshop.netlify.app` por el dominio nuevo en todos los `.html`, `sitemap.xml`, `robots.txt`, `llms.txt` y los datos estructurados JSON-LD (buscar y reemplazar en todo el proyecto) y configurar una redirección 301 desde el dominio de Netlify.

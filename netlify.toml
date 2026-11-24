@@ -1,0 +1,111 @@
+[build]
+  publish = "."
+
+# URLs limpias: /contacto en lugar de /contacto.html (evita contenido duplicado)
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/enderezada-y-pintura.html"
+  to = "/enderezada-y-pintura"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mecanica-general.html"
+  to = "/mecanica-general"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/nosotros.html"
+  to = "/nosotros"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contacto.html"
+  to = "/contacto"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog.html"
+  to = "/blog"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reparacion-de-choques-ambato.html"
+  to = "/reparacion-de-choques-ambato"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pintura-automotriz-ambato.html"
+  to = "/pintura-automotriz-ambato"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pulido-y-rayones-ambato.html"
+  to = "/pulido-y-rayones-ambato"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/que-hacer-despues-de-un-choque.html"
+  to = "/que-hacer-despues-de-un-choque"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/rayon-pulir-retocar-o-pintar.html"
+  to = "/rayon-pulir-retocar-o-pintar"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/como-cuidar-la-pintura-del-auto.html"
+  to = "/como-cuidar-la-pintura-del-auto"
+  status = 301
+  force = true
+
+# Archivos internos que no deben mostrarse públicamente
+[[redirects]]
+  from = "/README.md"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/CLAUDE_DESIGN_BRIEF.md"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/logo.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+[[headers]]
+  for = "/llms.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
