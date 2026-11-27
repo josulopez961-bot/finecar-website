@@ -29,3 +29,7 @@ Thumbs.db
 # Temporary exports
 *.zip
 *.log
+
+# Material de marketing y trabajo interno: no se publica con el sitio
+Publicaciones_Meta/
+FINECAR_CONTENIDO_ORGANIZADO/
