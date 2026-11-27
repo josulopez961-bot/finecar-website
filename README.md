@@ -37,6 +37,9 @@ Abrir:
 http://127.0.0.1:4177/
 ```
 
-## Nota para publicación
+## Dominio
 
-Al comprar el dominio propio, reemplazar `https://finecarbodyshop.netlify.app` por el dominio nuevo en todos los `.html`, `sitemap.xml`, `robots.txt`, `llms.txt` y los datos estructurados JSON-LD (buscar y reemplazar en todo el proyecto) y configurar una redirección 301 desde el dominio de Netlify.
+El sitio vive en `https://www.finecarbodyshop.com` (registrado en Banahosting, DNS en Netlify DNS).
+`finecarbodyshop.com` y `finecarbodyshop.netlify.app` redirigen con 301 a la versión con `www`.
+Si algún día cambia el dominio, reemplazar `https://www.finecarbodyshop.com` en todos los `.html`,
+`sitemap.xml`, `robots.txt`, `llms.txt` y `netlify.toml`, y mantener la redirección 301 desde el dominio anterior.

@@ -1,6 +1,13 @@
 [build]
   publish = "."
 
+# La dirección técnica de Netlify redirige para siempre al dominio oficial
+[[redirects]]
+  from = "https://finecarbodyshop.netlify.app/*"
+  to = "https://www.finecarbodyshop.com/:splat"
+  status = 301
+  force = true
+
 # URLs limpias: /contacto en lugar de /contacto.html (evita contenido duplicado)
 [[redirects]]
   from = "/index.html"

@@ -12,7 +12,7 @@ Si algo cambia (horario, servicios, garantía), actualízalo también en la web.
 | Teléfono principal | 0995556084 (WhatsApp) |
 | Teléfono adicional | 0995318519 |
 | Horario | Lun–Vie 8:30–18:00 · Sáb 8:30–14:00 · Dom cerrado |
-| Sitio web | https://finecarbodyshop.netlify.app/?utm_source=google&utm_medium=organic&utm_campaign=ficha |
+| Sitio web | https://www.finecarbodyshop.com/?utm_source=google&utm_medium=organic&utm_campaign=ficha |
 | Área de servicio | Ambato y alrededores |
 
 El enlace con `utm_` permite ver en Google Analytics cuántas visitas llegan desde la ficha.
@@ -39,7 +39,7 @@ El enlace con `utm_` permite ver en Google Analytics cuántas visitas llegan des
 ## 5. Botones y enlaces de la ficha
 
 - **Enlace de reservas/citas:** https://wa.me/593995556084
-- **Enlace de servicios:** https://finecarbodyshop.netlify.app/enderezada-y-pintura
+- **Enlace de servicios:** https://www.finecarbodyshop.com/enderezada-y-pintura
 - **Mensajes:** activar (así el cliente escribe desde Maps).
 
 ## 6. Fotos (meta: 20 o más, y subir 2–3 nuevas cada semana)

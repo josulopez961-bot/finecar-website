@@ -18,10 +18,10 @@
 
 ## Servicios
 
-- [Reparación de choques y enderezada de chasis](https://finecarbodyshop.netlify.app/reparacion-de-choques-ambato): enderezada de chasis y compactos cuando es viable; guardachoques, puertas, capó, compuertas, paneles y piezas de aluminio.
-- [Pintura automotriz](https://finecarbodyshop.netlify.app/pintura-automotriz-ambato): igualación de color, brillo directo, barniz, tricapa, perlados y mate. Garantía de hasta 2 años en pintura según el trabajo realizado.
-- [Rayones, pulido y protección cerámica](https://finecarbodyshop.netlify.app/pulido-y-rayones-ambato): evaluación para pulir, retocar o pintar; protección con cerámica y carnauba.
-- [Mecánica general](https://finecarbodyshop.netlify.app/mecanica-general): cambio de aceite y filtros, frenos, suspensión, ABC de motor, limpieza de inyectores, diagnóstico y mantenimiento. No se ofrece servicio de cajas automáticas.
+- [Reparación de choques y enderezada de chasis](https://www.finecarbodyshop.com/reparacion-de-choques-ambato): enderezada de chasis y compactos cuando es viable; guardachoques, puertas, capó, compuertas, paneles y piezas de aluminio.
+- [Pintura automotriz](https://www.finecarbodyshop.com/pintura-automotriz-ambato): igualación de color, brillo directo, barniz, tricapa, perlados y mate. Garantía de hasta 2 años en pintura según el trabajo realizado.
+- [Rayones, pulido y protección cerámica](https://www.finecarbodyshop.com/pulido-y-rayones-ambato): evaluación para pulir, retocar o pintar; protección con cerámica y carnauba.
+- [Mecánica general](https://www.finecarbodyshop.com/mecanica-general): cambio de aceite y filtros, frenos, suspensión, ABC de motor, limpieza de inyectores, diagnóstico y mantenimiento. No se ofrece servicio de cajas automáticas.
 
 ## Cómo cotizar
 
@@ -29,14 +29,14 @@ Enviar por WhatsApp una foto general del vehículo, una foto cercana del daño y
 
 ## Guías
 
-- [¿Qué hacer después de un choque?](https://finecarbodyshop.netlify.app/que-hacer-despues-de-un-choque)
-- [Rayón: ¿pulir, retocar o pintar?](https://finecarbodyshop.netlify.app/rayon-pulir-retocar-o-pintar)
-- [Cómo cuidar la pintura del auto](https://finecarbodyshop.netlify.app/como-cuidar-la-pintura-del-auto)
-- [Ayuda mecánica: frenos, Check Engine y mantenimiento](https://finecarbodyshop.netlify.app/blog)
+- [¿Qué hacer después de un choque?](https://www.finecarbodyshop.com/que-hacer-despues-de-un-choque)
+- [Rayón: ¿pulir, retocar o pintar?](https://www.finecarbodyshop.com/rayon-pulir-retocar-o-pintar)
+- [Cómo cuidar la pintura del auto](https://www.finecarbodyshop.com/como-cuidar-la-pintura-del-auto)
+- [Ayuda mecánica: frenos, Check Engine y mantenimiento](https://www.finecarbodyshop.com/blog)
 
 ## Otras páginas
 
-- [Inicio](https://finecarbodyshop.netlify.app/)
-- [Enderezada y pintura](https://finecarbodyshop.netlify.app/enderezada-y-pintura)
-- [Nosotros](https://finecarbodyshop.netlify.app/nosotros)
-- [Contacto y ubicación](https://finecarbodyshop.netlify.app/contacto)
+- [Inicio](https://www.finecarbodyshop.com/)
+- [Enderezada y pintura](https://www.finecarbodyshop.com/enderezada-y-pintura)
+- [Nosotros](https://www.finecarbodyshop.com/nosotros)
+- [Contacto y ubicación](https://www.finecarbodyshop.com/contacto)

@@ -39,4 +39,4 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-Sitemap: https://finecarbodyshop.netlify.app/sitemap.xml
+Sitemap: https://www.finecarbodyshop.com/sitemap.xml
