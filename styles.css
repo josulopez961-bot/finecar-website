@@ -597,7 +597,7 @@ h1, h2, h3 {
 }
 .site-footer .f-brand strong { display: block; color: var(--text); font-family: Montserrat, Inter, sans-serif; font-size: 1.15rem; margin-bottom: 12px; }
 .site-footer p { margin: 0 0 8px; line-height: 1.6; font-size: 0.94rem; }
-.site-footer h4 { margin: 0 0 14px; color: var(--silver); font-family: Montserrat, Inter, sans-serif; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; }
+.site-footer h3 { margin: 0 0 14px; color: var(--silver); font-family: Montserrat, Inter, sans-serif; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; }
 .site-footer ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 9px; }
 .site-footer ul a, .site-footer ul li { color: var(--muted); font-size: 0.94rem; }
 .site-footer ul a:hover { color: var(--accent); }
@@ -648,7 +648,7 @@ h1, h2, h3 {
   .split, .contact { grid-template-columns: 1fr; }
   .split.reverse .split-media { order: 0; }
   .case-card.tall { grid-row: auto; }
-  .case-card.tall .media img { aspect-ratio: 4 / 3; }
+  .case-card.tall .media img { aspect-ratio: 2 / 3; }
   .ba-feature { grid-template-columns: 1fr 1fr; }
   .ba-feature .ba-copy { grid-column: 1 / -1; }
   .site-footer { grid-template-columns: 1fr 1fr; }
@@ -757,16 +757,15 @@ main > .final-cta { margin-block: 0 clamp(56px, 8vw, 96px); }
 .seo-list li strong { color: var(--text); }
 .seo-list a { color: var(--accent); }
 
-.gallery-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.gallery-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; align-items: start; }
 .work-card {
   overflow: hidden;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
 }
-.work-card img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; height: auto; }
+.work-card img { width: 100%; height: auto; }
 .work-card.featured-work { grid-row: span 2; }
-.work-card.featured-work img { aspect-ratio: auto; height: calc(100% - 78px); min-height: 320px; }
 .work-card > div { display: grid; gap: 4px; padding: 16px 18px; }
 .work-card strong { font-family: Montserrat, Inter, sans-serif; }
 .work-card span { color: var(--muted); font-size: 0.92rem; }
@@ -836,7 +835,6 @@ main > .final-cta { margin-block: 0 clamp(56px, 8vw, 96px); }
 @media (max-width: 620px) {
   .gallery-grid, .post-list { grid-template-columns: 1fr; }
   .work-card.featured-work { grid-row: auto; }
-  .work-card.featured-work img { height: auto; min-height: 0; aspect-ratio: 4 / 3; }
   .before-after-strip { grid-template-columns: 1fr; }
   .page-hero .hero-actions .btn { width: 100%; }
 }
