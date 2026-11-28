@@ -841,3 +841,19 @@ main > .final-cta { margin-block: 0 clamp(56px, 8vw, 96px); }
 
 .trust-strip span a { color: inherit; padding: 0; background: none; border: 0; min-height: 0; display: inline; }
 .trust-strip span a:hover { color: var(--accent); }
+
+/* ---------- Casos reales ---------- */
+.case-study h2 { margin: 0 0 22px; font-size: clamp(1.5rem, 3vw, 2.2rem); font-weight: 800; line-height: 1.15; }
+.case-photos { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; align-items: start; }
+.case-fig { position: relative; margin: 0; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.case-fig img { width: 100%; height: auto; }
+.case-fig figcaption {
+  position: absolute; left: 12px; top: 12px; padding: 5px 12px;
+  color: #0b0a09; background: var(--accent); border-radius: 999px;
+  font-family: Montserrat, Inter, sans-serif; font-size: 0.74rem; font-weight: 700;
+}
+.case-facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin: 22px 0 0; }
+.case-facts div { padding: 18px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-sm); }
+.case-facts dt { margin: 0 0 6px; color: var(--accent); font-family: Montserrat, Inter, sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+.case-facts dd { margin: 0; color: var(--muted); line-height: 1.65; }
+@media (max-width: 760px) { .case-facts { grid-template-columns: 1fr; } }

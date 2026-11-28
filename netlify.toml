@@ -81,6 +81,12 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/casos-reales.html"
+  to = "/casos-reales"
+  status = 301
+  force = true
+
 # Archivos internos que no deben mostrarse públicamente
 [[redirects]]
   from = "/README.md"
