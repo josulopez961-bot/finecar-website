@@ -34,3 +34,7 @@ Thumbs.db
 Publicaciones_Meta/
 FINECAR_CONTENIDO_ORGANIZADO/
 seleccion_contenido/
+
+# Fotos de casos reales del sitio
+!assets/casos/
+!assets/casos/*.webp
